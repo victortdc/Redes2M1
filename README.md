@@ -7,6 +7,6 @@ para lidar com os espaços e reconhecer os bits. </p> </h2> </div>
 
 Segue um exemplo abaixo de execução:
 <ul> <li>
-![image](https://user-images.githubusercontent.com/63310837/228712489-4cd8fd43-8202-43e5-9d5b-25364df2e99e.png)
+ <img height="180em" src="https://user-images.githubusercontent.com/63310837/228712489-4cd8fd43-8202-43e5-9d5b-25364df2e99e.png" />
 
 </li> </ul>

@@ -59,7 +59,7 @@ class CRC {
     cout << "\n-----Receivers Side-----\n" << "Received message:";
     for (int i = 0; i < nf + ng; i++)
       cout << frame[i] << ' ';
-
+    return 0;
   }
 };
 int main() {

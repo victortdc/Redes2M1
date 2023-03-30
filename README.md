@@ -1,5 +1,5 @@
-# Redes2M1
-Repositório para trabalho de redes 2 da M1
+# Redes2 M1 - Enlace
+Repositório para trabalho de redes 2 da M1 sobre camada de enlace
 <br>
 
 <div> <h2><p> Ao executar o programa lembrar de inserir a transmissão/informação binária com " " entre os bits, por exemplo: "1 0 0 1" pois é usado um método na implementação
